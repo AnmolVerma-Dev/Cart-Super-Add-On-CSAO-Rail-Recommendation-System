@@ -1,7 +1,6 @@
 # Cart-Super-Add-On-CSAO-Rail-Recommendation-System
-A real-time intelligent recommendation system that predicts which add-on items a customer is likely to add to their Zomato cart. When a user adds an item to their cart, the CSAO Rail surfaces personalized recommendations by scoring candidate items using cart context, user behavior, and temporal signals — all under 100ms
-Cart Super Add-On Recommendation System 🚀
-Predicting optimal add-ons to boost cart value through intelligent ML recommendations 🌟
+A real-time intelligent recommendation system that predicts which add-on items a customer is likely to add to their Zomato cart. When a user adds an item to their cart, the CSAO Rail surfaces personalized recommendations by scoring candidate items using cart context, user behavior, and temporal signals — all under 100ms.
+Predicting optimal add-ons to boost cart value through intelligent ML recommendations. 🌟
 
 # 📖 Description
 The Cart Super Add-On Recommendation System is a machine learning solution designed to predict the best add-on items (drinks, desserts, starters) for customer shopping carts in food delivery platforms. This Jupyter notebook analyzes 91K+ orders across Indian cities to recommend complementary items that complete meals and maximize cart value.
@@ -89,5 +88,4 @@ Syndicate
 Gorakhpur, Uttar Pradesh, India
 ​
 
-📝 License
-This project is licensed under the MIT License - free to use in commercial applications.
+
